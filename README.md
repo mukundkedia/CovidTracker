@@ -1,3 +1,5 @@
+# Hosted in Github pages : https://mukundkedia.github.io/CovidTracker/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
